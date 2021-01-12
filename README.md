@@ -1,5 +1,9 @@
 # test-rivalis-web
 
+to install 
+
+pip install -r requirements.txt
+
 
 ### Test Python Marouane
 ###Environnement : Python 3 / Vue.Js
