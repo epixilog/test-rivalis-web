@@ -1,0 +1,34 @@
+aiofiles @ file:///home/conda/feedstock_root/build_artifacts/aiofiles_1603888855375/work
+aiosqlite==0.16.0
+albumentations==0.4.3
+certifi==2020.6.20
+click==7.1.2
+h11==0.9.0
+h2==3.2.0
+hpack==3.0.0
+httpcore @ file:///home/conda/feedstock_root/build_artifacts/httpcore_1601815024207/work
+httptools @ file:///home/conda/feedstock_root/build_artifacts/httptools_1602325998971/work
+httpx @ file:///home/conda/feedstock_root/build_artifacts/httpx_1601037969203/work
+hyperframe==5.2.0
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
+iso8601==0.1.13
+itsdangerous==1.1.0
+MarkupSafe @ file:///tmp/build/80754af9/markupsafe_1594371495811/work
+multidict @ file:///tmp/build/80754af9/multidict_1607367738239/work
+mysql-connector-python==8.0.22
+opencv-python-headless==4.2.0.32
+protobuf==3.14.0
+PyPika==0.44.1
+pytz==2020.5
+PyYAML==5.3
+rfc3986 @ file:///home/conda/feedstock_root/build_artifacts/rfc3986_1593217945888/work
+sanic @ file:///home/conda/feedstock_root/build_artifacts/sanic_1609945897902/work
+six==1.15.0
+sniffio @ file:///home/conda/feedstock_root/build_artifacts/sniffio_1610318316464/work
+SQLAlchemy @ file:///tmp/build/80754af9/sqlalchemy_1598374732873/work
+tortoise-orm==0.16.19
+typing-extensions==3.7.4.3
+ujson @ file:///home/conda/feedstock_root/build_artifacts/ujson_1602281957329/work
+uvloop==0.14.0
+websockets @ file:///home/conda/feedstock_root/build_artifacts/websockets_1602327016732/work
+Werkzeug==1.0.1
